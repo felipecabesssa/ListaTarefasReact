@@ -18,4 +18,13 @@
     border: none;
     font-size: 18px;
     color: chartreuse;
+    cursor: pointer;
+}
+
+.see-task-details-button {
+    background-color: #444;
+    border: none;
+    font-size: 18px;
+    color: chartreuse;
+    cursor: pointer;
 }
